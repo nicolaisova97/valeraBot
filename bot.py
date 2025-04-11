@@ -8,7 +8,7 @@ from aiogram.dispatcher import FSMContext
 from aiogram.dispatcher.filters import Text
 
 API_TOKEN = '7686941028:AAHm7uILztAuUq4Zd51AtzNkqGnEQasehbU'
-ADMIN_ID = 123456789  # Замените на свой Telegram ID
+ADMIN_ID = 735963518  # Замените на свой Telegram ID
 
 logging.basicConfig(level=logging.INFO)
 
